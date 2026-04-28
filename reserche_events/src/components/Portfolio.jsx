@@ -1,3 +1,4 @@
+import { Filter } from 'lucide-react';
 import React from 'react';
 
 const portfolioItems = [
@@ -34,7 +35,7 @@ const portfolioItems = [
   {
     title: 'Sacred Celebrations',
     desc: 'Reverential, beautifully organized religious gatherings and community events across Lagos and beyond.',
-    bg: 'https://images.unsplash.com/photo-1438232992991-995b671e4668?w=1200&q=80',
+    bg: 'https://images.unsplash.com/photo-1634334867692-bc2ad0e164f2?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGNodXJjaCUyMGNlbGVicmF0aW9ufGVufDB8fDB8fHww',
     tag: 'RELIGIOUS',
   },
 ];
