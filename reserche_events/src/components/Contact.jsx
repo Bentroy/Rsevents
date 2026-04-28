@@ -75,7 +75,7 @@ export default function Contact() {
                 backgroundSize: '16px 16px',
               }} />
 
-              <img src="/logo.webp" alt="Recherché Events" style={{ width: '80px', opacity: 0.9, marginBottom: '1.5rem', filter: 'brightness(0) invert(1)' }} />
+              <img src="/logo.webp" alt="Recherché Events" style={{ width: '80px', opacity: 0.9, marginBottom: '1.5rem', filter: 'brightness(0) invert(1)', mixBlendMode: 'screen' }} />
 
               <h3 style={{ fontFamily: 'var(--font-display)', fontSize: '1.5rem', fontWeight: 400, color: 'var(--white)', marginBottom: '0.5rem' }}>
                 Recherché Events & Gifts Ltd
