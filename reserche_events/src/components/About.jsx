@@ -236,7 +236,7 @@ export default function About() {
                   width: "100px",
                   opacity: 0.9,
                   marginBottom: "1.5rem",
-                  filter: "brightness(0) invert(1)",
+                  filter: "saturate(0) contrast(1.2)",
                   mixBlendMode: "screen",
                 }}
               />

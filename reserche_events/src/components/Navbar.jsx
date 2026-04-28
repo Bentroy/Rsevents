@@ -63,7 +63,6 @@ export default function Navbar() {
                 <img src="/logo.webp" alt="Recherché Events Logo"
                   style={{
                     height: '46px', width: 'auto',
-                    filter: 'brightness(10) saturate(0)',
                     mixBlendMode: 'screen',
                   }} />
               </div>

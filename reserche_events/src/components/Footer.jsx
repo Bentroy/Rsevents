@@ -53,7 +53,7 @@ export default function Footer() {
           {/* Brand */}
           <div style={{ gridColumn: 'span 1' }}>
             <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '1.2rem' }}>
-              <img src="/logo.webp" alt="Recherché Events" style={{ height: '48px', width: 'auto', filter: 'brightness(0) invert(1)', opacity: 0.9, mixBlendMode: 'screen' }} />
+              <img src="/logo.webp" alt="Recherché Events" style={{ height: '48px', width: 'auto', opacity: 0.9, mixBlendMode: 'screen' }} />
             </div>
             <p style={{ fontFamily: 'var(--font-display)', fontSize: '0.95rem', color: 'rgba(255,255,255,0.5)', lineHeight: 1.8, fontStyle: 'italic', marginBottom: '1.2rem', fontWeight: 300 }}>
               Crafting Events That Leave Lasting Impressions
